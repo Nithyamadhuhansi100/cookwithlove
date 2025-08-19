@@ -1,4 +1,5 @@
 <?php
+
 include 'db.php';
 
 $sql = "SELECT * FROM courses";
@@ -12,3 +13,4 @@ while ($row = $result->fetch_assoc()) {
 
 echo json_encode($courses);
 ?>
+
