@@ -10,9 +10,8 @@
 
 ## 🛠️ Tech Stack
 * **Frontend**: HTML5, CSS3
-* **Backend**: PHP (PDO for database interactions)
+* **Backend**: PHP 
 * **Database**: MySQL
-* **Tools**: XAMPP / WAMP, Git/GitHub
 
 ## 📂 Project Structure
 * `db.php` - Database connection configuration.
